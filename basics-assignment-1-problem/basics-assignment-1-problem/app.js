@@ -3,7 +3,7 @@ const app = Vue.createApp({
         return {
             name: 'MrK',
             age: 20,
-            imgUrl: 'https://i1.wp.com/storage.googleapis.com/blog-images-backup/1*wFL3csJ96lQpY0IVT9SE3w.jpeg?ssl=1'
+            imgUrl: 'https://aduka.asia/wp-content/uploads/2018/05/vuejs-1.png'
         }
     },
 
